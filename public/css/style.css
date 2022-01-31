@@ -1,0 +1,12 @@
+#botao123{
+  background-color: steelblue;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 60px;
+}
+
+.tabela-index{
+    font-size: 20px;
+}
